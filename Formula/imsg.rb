@@ -2,7 +2,7 @@ class Imsg < Formula
   desc "Read iMessages from the command line"
   homepage "https://github.com/jrasband/imsg"
   url "https://github.com/jrasband/imsg/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "9ec6bb2aa29363a81ab346c50284735e88fc80256271197b8fe020dd0447563b"
   version "0.5.0"
   license "MIT"
 
