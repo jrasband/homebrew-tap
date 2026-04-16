@@ -3,7 +3,7 @@ class Imsg < Formula
   homepage "https://github.com/jrasband/imsg"
   url "https://github.com/jrasband/imsg/archive/refs/tags/v0.5.0.tar.gz"
   sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
-  version: "0.5.0"
+  version "0.5.0"
   license "MIT"
 
   depends_on xcode: ["13.0", :build]
